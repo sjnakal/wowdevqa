@@ -4,7 +4,7 @@ Main points:
 1. User type:
             bank/customer/organization
 
-2. Customer : customers/organization information, Bank account information).
+2. Customer : customers/organization information, Bank account information.
 
 3.Bank: Bank information
 
@@ -22,4 +22,4 @@ Main points:
          12-month plan, 
          24-month plan, 
          36-month plan,
-         60-month plan)
+         60-month plan
