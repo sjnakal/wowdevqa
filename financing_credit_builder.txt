@@ -1,5 +1,8 @@
-                       *****Report Analysis*****
-Main points:
+                  Intern project report analysis
+
+      Personal financing credit builder analyzer:
+      
+points of view:
 
 1. User type:
             bank/customer/organization
