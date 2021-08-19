@@ -1,6 +1,6 @@
                   Intern project report analysis
 
-      Personal financing credit builder analyzer:
+      Personal financing credit score builder analyzer:
       
 points of view:
 
