@@ -35,23 +35,55 @@ points of view:
  -60-month above plan
   
   
-  Research on today (2021/08/20)
+// Research on today (2021/08/20)
+
+ * Ouer system goal: Lender easily provide loan to the borrowers via online.
   
-  Borrowers:
+ * System user:
+  
+  1) Borrowers: User
    - A person or organization that take money or loan from someone else for various purposes.
      The borrower uses the money for the specified time duration and at the end of the period returns the money 
      to the lender.
      
     a) Personal information:
-      -Details information of borrower
+      -Details information of borrower.
       
     b) Financial information:
-      -Occupation/Professions 
+      -Occupation/Professions.
       
-    c) Borrower monthly income
+    c) Borrower income:
+      - Borrower monthly income.
     
     d) Attachment information:
       - Attachments accepted file types:  jpg, gif, png, xls, doc, docx, pdf
+       
+ 2) Lender: Supper user/Admin
+  - like bank, that provide the loan to the borrowers while needed for specific purposes.
+  
+  
+ * Admin task:
+  a) Manage the Borrower:
+   - Borrower approved by the admin.
+  
+  b) Manage the loan:
+    - Manege the loan planning.
+    - Manage the loan type.
+    
+  c) Manage the payment:
+    - Listing the payment.
+    
+  d) Manage the missed payment:
+    - Listing the missed (deadline cross) payment.
+   
+  e) Manage the message:
+    - Seen and reply response to the borrower.
+ 
+ 
+  
+  
+      
+      
     
   
   
