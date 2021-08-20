@@ -1,4 +1,4 @@
-Intern project report analysis
+*****Intern project report analysis*****
 Personal financing credit score builder analyzer:
       
 points of view:
@@ -34,5 +34,24 @@ points of view:
  -36-month plan,
  -60-month above plan
   
+  
+  Research on today (2021/08/20)
+  
+  Borrowers:
+   - A person or organization that take money or loan from someone else for various purposes.
+     The borrower uses the money for the specified time duration and at the end of the period returns the money 
+     to the lender.
+     
+    a) Personal information:
+      -Details information of borrower
+      
+    b) Financial information:
+      -Occupation/Professions 
+      
+    c) Borrower monthly income
+    
+    d) Attachment information:
+      - Attachments accepted file types:  jpg, gif, png, xls, doc, docx, pdf
+    
   
   
