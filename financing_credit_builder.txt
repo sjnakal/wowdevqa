@@ -86,6 +86,8 @@ points of view:
       
       08/24
   user login connect with database
+  08/24
+  login/logout admin panel
     
   
   
