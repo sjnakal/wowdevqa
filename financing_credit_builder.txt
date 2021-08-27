@@ -90,7 +90,7 @@ points of view:
   login/logout admin panel
   
   08/26 
-  design add new borrower form
+  add new borrower form
     
   
   
