@@ -88,6 +88,9 @@ points of view:
   user login connect with database
   08/24
   login/logout admin panel
+  
+  08/26 
+  design add new borrower form
     
   
   
