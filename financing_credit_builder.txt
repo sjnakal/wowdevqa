@@ -86,11 +86,14 @@ points of view:
       
       08/24
   user login connect with database
-  08/24
+  08/25
   login/logout admin panel
   
   08/26 
   add new borrower form
+  
+  08/27
+  listing borrowers
     
   
   
