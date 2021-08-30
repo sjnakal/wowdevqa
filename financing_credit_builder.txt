@@ -94,6 +94,8 @@ points of view:
   
   08/27
   listing borrowers
-    
+  
+    08/30
+create loan type form    
   
   
