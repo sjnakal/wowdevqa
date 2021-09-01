@@ -100,5 +100,8 @@ create loan type form
 
 08/31
 complete loan plan and type
+
+09/1
+create user registration form
   
   
