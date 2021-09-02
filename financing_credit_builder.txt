@@ -103,5 +103,8 @@ complete loan plan and type
 
 09/1
 create user registration form
+
+09/2
+create user login form
   
   
