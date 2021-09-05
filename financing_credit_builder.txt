@@ -109,5 +109,11 @@ create user login form
 
 09/ 3
 complete registration for lender with database
+
+09/4
+complete registration for borrower with database
+
+09/ 5
+select borrower and lender data from database into the dashboard
   
   
