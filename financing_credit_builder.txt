@@ -114,6 +114,7 @@ complete registration for lender with database
 complete registration for borrower with database
 
 09/ 5
-select borrower and lender data from database into the dashboard
-  
-  
+select borrower data from database into the dashboard
+
+09/7 
+select lender data from database into the dashboard
